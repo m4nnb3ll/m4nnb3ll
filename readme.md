@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MannBell</h1>
 <h3 align="center">A passionate frontend developer & 1337(42 Network) student from Morocco</h3>
 
-<p><img align="center" src="https://badge.mediaplus.ma/binary/abelayad" alt="m4nnb3ll_badge" /></p>
+<p align="center"><img src="https://badge.mediaplus.ma/binary/abelayad" alt="m4nnb3ll_badge" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4nnb3ll&label=Profile%20views&color=0e75b6&style=flat" alt="m4nnb3ll" /> </p>
 
