@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm MannBell</h1>
 <h3 align="center">A passionate frontend developer & 1337(42 Network) student from Morocco</h3>
 
-<p align="center"><img src="https://badge.mediaplus.ma/binary/abelayad" alt="m4nnb3ll_badge" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4nnb3ll&label=Profile%20views&color=0e75b6&style=flat" alt="m4nnb3ll" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m4nnb3ll" alt="m4nnb3ll" /></a> </p>
+<p align="left"> <a href="https://github.com/m4nnb3ll"><img src="https://github-profile-trophy.vercel.app/?username=m4nnb3ll" alt="m4nnb3ll" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/m4nnb3ll" target="blank"><img src="https://img.shields.io/twitter/follow/m4nnb3ll?logo=twitter&style=for-the-badge" alt="m4nnb3ll" /></a> </p>
 
