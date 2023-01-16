@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m4nnb3ll" alt="m4nnb3ll" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/m4nnb3ll" target="blank"><img src="https://img.shields.io/twitter/follow/m4nnb3ll?logo=twitter&style=for-the-badge" alt="m4nnb3ll" /></a> </p>
+
 - 🔭 I’m currently working on **42 Projects**
 
 - 🌱 I’m currently learning **C, System administration, Shell...**
