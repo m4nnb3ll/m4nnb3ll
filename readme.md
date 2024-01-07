@@ -9,7 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/m4nnb3ll" target="blank"><img src="https://img.shields.io/twitter/follow/m4nnb3ll?logo=twitter&style=for-the-badge" alt="m4nnb3ll" /></a> </p>
 
-- 🔭 I’m currently working on **42 Projects**
+- 🔭 I’m currently working on projects **at:**
+
+  <a href="https://42.fr" target="_blank"><img src="https://42.fr/wp-content/uploads/2021/07/cropped-42-favicon-acs-192x192.png" width="64" height="64"></a>
 
 - 🌱 I’m currently learning **C, C++, System administration, Shell...**
 
