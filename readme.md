@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MannBell</h1>
-<h3 align="center">A passionate frontend developer & 1337(42 Network) student from Morocco</h3>
+<h3 align="center">A passionate Software Engineer & a student at 42 (1337)</h3>
 
 <!-- <p align="center"> <img src="https://badge42.vercel.app/api/v2/clh9mb841001108jrghhzezl4/stats?cursusId=21&coalitionId=282" alt="MannBell 42 stats" /> </p> -->
 
@@ -13,7 +13,7 @@
 
   <a href="https://42.fr" target="_blank"><img src="https://42.fr/wp-content/uploads/2021/07/cropped-42-favicon-acs-192x192.png" width="64" height="64"></a>
 
-- 🌱 I’m currently learning **C, C++, System administration, Shell...**
+- 🌱 I’m currently learning **about various IT Stuff...**
 
 - 👨‍💻 My projects are available at [https://m4nnb3ll.github.io/](https://m4nnb3ll.github.io/)
 
