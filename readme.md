@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MannBell</h1>
-<h3 align="center">A passionate Software Engineer & a student at 42 (1337)</h3>
+<h3 align="center">An IT passionate</h3>
 
 <!-- <p align="center"> <img src="https://badge42.vercel.app/api/v2/clh9mb841001108jrghhzezl4/stats?cursusId=21&coalitionId=282" alt="MannBell 42 stats" /> </p> -->
 
